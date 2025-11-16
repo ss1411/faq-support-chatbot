@@ -1,0 +1,6 @@
+{
+  "input_path": "C:\\work\\projects\\faq-support-chatbot\\data\\hr_saas.txt",
+  "collection_name": "hr_faq",
+  "persist_dir": "C:\\work\\projects\\faq-support-chatbot\\chroma_store",
+  "n_chunks": 20
+}

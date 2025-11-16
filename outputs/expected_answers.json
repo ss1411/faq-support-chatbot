@@ -1,0 +1,7 @@
+{
+  "q1": "Key onboarding steps include digital offer acceptance, document collection (ID, tax forms), background verification, creation of employee record, IT provisioning (email, devices, access), orientation scheduling, and task assignments such as first-week deliverables and mentor allocation.",
+  "q2": "The platform supports clock-in via web, mobile, QR code, or biometric devices, shift scheduling (rotating/night/flexible shifts), flags attendance exceptions (late arrivals, early exits, overtime), and manager approval of timesheets. It also supports leave management integrated with attendance for payroll.",
+  "q3": "Supported workplace policies include Attendance Policy, Leave Policy, Code of Conduct, Anti-Harassment Policy, Data Security Policy, Travel Policy, Expense Policy, Remote Work Policy, and Termination Policy. Employees access these via the portal and acknowledge them electronically.",
+  "q4": "Performance management supports SMART goal setting, continuous feedback, customizable quarterly/annual reviews, 360-degree feedback, calibration tools to ensure fairness, and development plans linked to L&D recommendations.",
+  "q5": "Security and compliance features include adherence to SOC2, GDPR, ISO27001, data residency support, role-based access control, multi-factor authentication, audit logs, consent tracking, and policy acknowledgments, plus encryption in transit and at rest."
+}

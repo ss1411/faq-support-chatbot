@@ -1,0 +1,64 @@
+[
+  {
+    "id": "q1",
+    "question": "What are the key steps involved in the employee onboarding process in this HR SaaS system?",
+    "expected_keywords": [
+      "Digital Offer Letter",
+      "Document Collection",
+      "IT Provisioning",
+      "Orientation Scheduling",
+      "Task Assignment"
+    ],
+    "notes": "Expected to retrieve onboarding procedures section."
+  },
+  {
+    "id": "q2",
+    "question": "How does the platform handle time and attendance tracking for shift-based or remote teams?",
+    "expected_keywords": [
+      "clock in",
+      "QR code",
+      "biometric",
+      "Shift scheduling",
+      "attendance exceptions",
+      "timesheets"
+    ],
+    "notes": "Expected to retrieve time & attendance features."
+  },
+  {
+    "id": "q3",
+    "question": "What workplace policies does the HR SaaS platform support and how are employees expected to use them?",
+    "expected_keywords": [
+      "Attendance Policy",
+      "Leave Policy",
+      "Code of Conduct",
+      "Anti-harassment policy",
+      "Data Security Policy"
+    ],
+    "notes": "Expected to retrieve workplace policies section."
+  },
+  {
+    "id": "q4",
+    "question": "How does the performance management module support continuous feedback and performance reviews?",
+    "expected_keywords": [
+      "SMART goals",
+      "Continuous Feedback",
+      "360-degree feedback",
+      "Calibration",
+      "Development Plans"
+    ],
+    "notes": "Expected to retrieve performance management details."
+  },
+  {
+    "id": "q5",
+    "question": "What security and compliance features protect employee data in this HR SaaS platform?",
+    "expected_keywords": [
+      "SOC2",
+      "GDPR",
+      "ISO27001",
+      "Role-Based Access Control",
+      "Multi-Factor Authentication",
+      "Audit logs"
+    ],
+    "notes": "Expected to retrieve compliance and security section."
+  }
+]
