@@ -50,26 +50,26 @@ A small RAG-style FAQ support tool that builds a local embedding index from a pl
 
 # Project Structure:
 - faq-support-chatbot
-  |- chroma_store
-  |- data
-  |  - hr_saas.txt
-  |- outputs
-    |- expected_answers.json
-    |- metrics.csv
-    |- sample_queries.json
-  |- src
-    |- build_index.py
-    |- chroma_client.py
-    |- evaluator_agent.py
-    |- llm_client.py
-    |- query.py
-    |- utils.py
-  |- tests
-    |- test_utils.py
-  |- .env.example
-  |- .gitignore
-  |- README.md
-  |- requirements.txt
+  - chroma_store
+  - data
+    - hr_saas.txt
+  - outputs
+    - expected_answers.json
+    - metrics.csv
+    - sample_queries.json
+  - src
+    - build_index.py
+    - chroma_client.py
+    - evaluator_agent.py
+    - llm_client.py
+    - query.py
+    - utils.py
+  - tests
+    - test_utils.py
+  - .env.example
+  - .gitignore
+  - README.md
+  - requirements.txt
 
 
 # Metrics: what is recorded & how to reproduce
